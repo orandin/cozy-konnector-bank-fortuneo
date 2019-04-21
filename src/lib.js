@@ -66,7 +66,6 @@ async function start(fields) {
 
   let allOperations = []
   for (let bankAccount of bankAccounts) {
-
     log('info', 'Retrieve the balance', 'bank.balances')
     // Update the balance of each bank account
     // Note: the parameter is a pointer
