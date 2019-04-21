@@ -3,7 +3,7 @@
   "name": "Fortuneo",
   "type": "konnector",
   "language": "node",
-  "icon": "fortuneo.svg",
+  "icon": "fortuneo.png",
   "slug": "bank-fortuneo",
   "source": "git://github.com/orandin/cozy-konnector-bank-fortuneo.git",
   "editor": "Orandin",
