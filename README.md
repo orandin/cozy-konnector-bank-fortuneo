@@ -64,7 +64,7 @@ You can reach the Cozy Community by:
 License
 -------
 
-cozy-konnector-fortuneo is developed by dohseven and distributed under the [AGPL v3 license][agpl-3.0].
+cozy-konnector-fortuneo is developed by [Orandin](https://github.com/orandin) and distributed under the [AGPL v3 license][agpl-3.0].
 
 [cozy]: https://cozy.io "Cozy Cloud"
 [agpl-3.0]: https://www.gnu.org/licenses/agpl-3.0.html
